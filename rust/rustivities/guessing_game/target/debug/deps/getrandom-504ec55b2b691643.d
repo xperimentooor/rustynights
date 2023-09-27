@@ -1,0 +1,11 @@
+/Users/quantman/Documents/rust/hello_world/guessing_game/target/debug/deps/getrandom-504ec55b2b691643.rmeta: /Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/lib.rs /Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error.rs /Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/util.rs /Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error_impls.rs /Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/util_libc.rs /Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/use_file.rs /Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/macos.rs
+
+/Users/quantman/Documents/rust/hello_world/guessing_game/target/debug/deps/getrandom-504ec55b2b691643.d: /Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/lib.rs /Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error.rs /Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/util.rs /Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error_impls.rs /Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/util_libc.rs /Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/use_file.rs /Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/macos.rs
+
+/Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/lib.rs:
+/Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error.rs:
+/Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/util.rs:
+/Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/error_impls.rs:
+/Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/util_libc.rs:
+/Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/use_file.rs:
+/Users/quantman/.cargo/registry/src/github.com-1ecc6299db9ec823/getrandom-0.2.9/src/macos.rs:
